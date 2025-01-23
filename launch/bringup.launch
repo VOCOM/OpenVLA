@@ -1,0 +1,3 @@
+<launch>
+    <node name="vla_node" pkg="openvla_demo" type="vla_node.py" />
+</launch>
